@@ -5,6 +5,7 @@ public class SingletonClassDemo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
       System.out.println("singleton class");
+      System.out.println("abhishek is best");
 	}
 
 }
